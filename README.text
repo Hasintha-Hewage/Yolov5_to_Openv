@@ -1,1 +1,5 @@
-
+I want to create a Gui app for using the YOLOv5s medl.
+I trained this one using google collab and I test with detect.py in this https://github.com/ultralytics/yolov5 .That detect.py code is used with the OOP concept and I am not familiar with that kind of complex code. 
+I want to modify the code to use for the OpenCV usage to objection detection.
+" best.pt " is the output file that gains after the trained by the google collab.
+I try to after converting to ONNX format also 
